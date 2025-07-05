@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the largest ocean in the world?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Trainer Marking Language",
+      "Hyper Text Markup Language",
+      "Hyper Text Marketing Language",
+      "Hyper Text Marking Level"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Venus"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": [
+      "Oxygen",
+      "Gold",
+      "Silver",
+      "Iron"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "answer": "Leonardo da Vinci"
+  }
+]

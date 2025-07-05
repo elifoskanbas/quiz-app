@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class = "container">
+        <div class = "quizApp">
+            <div class = "header">
+                <h3>Simple Quiz</h3>
+            </div>
+            <div class="line"></div>
+            <div class = "question">
+                <h4 id = "question"></h4>
+            </div>
+            <div class="optionList">
+                <ul id="optionContainer">
+                    <li id="option1" onclick="checkFunc(this)">Option 1</li>
+                    <li id="option2" onclick="checkFunc(this)">Option 2</li>
+                    <li id="option3" onclick="checkFunc(this)">Option 3</li>
+                    <li id="option4" onclick="checkFunc(this)">Option 4</li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+        <script src="script.js"></script>
+</body>
+</html>
