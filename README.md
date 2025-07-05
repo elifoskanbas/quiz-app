@@ -30,7 +30,7 @@ This project is a simple quiz application built using HTML, CSS, and JavaScript.
 
 ## Project Preview
 
-![Quiz Screenshot](images/quiz\ ss.png)  
-![End of the Quiz Screenshot](images/end\ of\ the\ quiz\ ss.png)
+![Quiz App Image 1](images/image1.png)  
+![Quiz App Image 2](images/image2.png)
 
 Thank you! I welcome any feedback and suggestions.
